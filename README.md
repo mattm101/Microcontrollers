@@ -39,5 +39,7 @@ Wszystkie mikrokontrolery taktowane są zewnętrznym zegarem rezonatora kwarcowe
   **Mikrokontroler U5 - MOTOR**  
   Odczytuje znaki wysyłane przez U1 na porcie szeregowym i odpowiednio wysterowuje pracę silników.
     
-  
-  
+## Schemat układu
+<p align="center" >
+  <img src="circut_schema.png" >
+</p>
