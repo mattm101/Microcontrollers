@@ -42,5 +42,5 @@ Wszystkie mikrokontrolery taktowane są zewnętrznym zegarem rezonatora kwarcowe
 ## Schemat układu
 
 <p align="center" >
-  <img src="circut_schema.png" >
+  <img src="circuit_schema.png" >
 </p>
